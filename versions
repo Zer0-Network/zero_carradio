@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "resource": "zero_carradio",
+  "version": "1.0.3",
+  "download": "https://portal.cfx.re/assets/granted-assets",
+  "notes": [
+    "Dependencia obligatoria de xSound: https://github.com/Xogy/xsound ; iniciar xsound antes de zero_carradio.",
+    "Biblioteca de 100 canciones, diez categorías, edición y orden independiente por categoría.",
+    "Barra de tiempo y búsqueda, reproducción consecutiva según categoría y modo streamer.",
+    "Retirado el volumen ampliado: límite de 0 a 100 % y migración de preferencias anteriores.",
+    "Menor trabajo de streams fuera de alcance y de progreso o análisis con la interfaz cerrada."
+  ]
+}
